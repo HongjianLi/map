@@ -1,9 +1,14 @@
 # map
 
-Map-based applications, including
+Map-based applications:
 * visited cities (directory `visited`)
 * statistical yearbook (directory `yearbook`)
 * weather forecast (directory `weather`)
+
+## Data sources
+
+* [echarts](https://github.com/echarts-maps/echarts-china-cities-js)
+* [poi86](https://www.poi86.com/)
 
 ## Initialization (`init.sh`)
 
