@@ -1,7 +1,7 @@
 echo off
 set d=%date%
 set date=%d:~6,4%-%d:~3,2%-%d:~0,2%
-set t=%time%
+set t=%time: =0%
 set datetime=%date%-%t:~0,2%-%t:~3,2%
 echo %date% %time% Script started
 echo %date% %time% node index.js
