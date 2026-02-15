@@ -3,7 +3,7 @@ echo "$(date +"%F %T.%N") Script started"
 datetime=$(date +"%F-%H-%M")
 echo "$(date +"%F %T.%N") node index.js"
 node index.js
-export PUPPETEER_EXECUTABLE_PATH=/opt/google/chrome/chrome
+export PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium
 echo "$(date +"%F %T.%N") cd weather"
 cd weather
 echo "$(date +"%F %T.%N") node index.js city"
