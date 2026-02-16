@@ -44,7 +44,7 @@
   * 2-4 人口
   * 23-1-0 GDP
   * 23-1-2 城镇/农村居民人均可支配收入
-* [安徽](https://tjj.ah.gov.cn/ssah/qwfbjd/tjnj/index.html) [2024](https://tjj.ah.gov.cn/oldfiles/tjj/tjjweb/tjnj/2024/index.html)
+* [安徽](https://tjj.ah.gov.cn/ssah/qwfbjd/tjnj/index.html) [2025](https://tjj.ah.gov.cn/oldfiles/tjj/tjjweb/tjnj/2025/index.html)
   * 2-18 人均GDP
   * 9-20 城镇/农村居民人均可支配收入
 * [浙江](https://tjj.zj.gov.cn/col/col1525563/index.html) [2025](https://tjj.zj.gov.cn/col/col1525563/art/2025/art_7953091e51dd43d295acd67166b78d55.html) 2025-12-08
