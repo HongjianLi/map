@@ -21,9 +21,9 @@
 * [湖南](https://hunan.gov.cn/hnszf/zfsj/tjnj/tygl.html) [2024](http://222.240.193.190/2024tjnj/zk/indexch.htm) 2025-04-14
   * [22-4 人均GDP](http://222.240.193.190/2024tjnj/zk/html/22-04.jpg)
   * [22-20 城镇/农村居民人均可支配收入](http://222.240.193.190/2024tjnj/zk/html/22-20.jpg)
-* [江西](https://tjj.jiangxi.gov.cn/col/col38595/index.html) [2024](https://tjj.jiangxi.gov.cn/resource/nj/2024CD/zk/indexch.htm) 2025-03-04
-  * [1-18 GDP](https://tjj.jiangxi.gov.cn/resource/nj/2024CD/zk/html/0118.jpg)
-  * [9-24 城镇/农村居民人均可支配收入](https://tjj.jiangxi.gov.cn/resource/nj/2024CD/zk/html/0925.jpg)
+* [江西](https://tjj.jiangxi.gov.cn/col/col38595/index.html) [2025](https://tjj.jiangxi.gov.cn/resource/nj/2025CD/zk/indexch.htm) 2026-01-30
+  * [1-17 GDP](https://tjj.jiangxi.gov.cn/resource/nj/2025CD/zk/html/0117.jpg)
+  * [9-24 城镇/农村居民人均可支配收入](https://tjj.jiangxi.gov.cn/resource/nj/2025CD/zk/html/0924.jpg)
 * [福建](https://tjj.fujian.gov.cn/xxgk/ndsj/) [2025](https://tjj.fujian.gov.cn/tongjinianjian/dz2025/zk/indexch.htm) 2025-12-02
   * [21-1 人均GDP](https://tjj.fujian.gov.cn/tongjinianjian/dz2025/zk/html/21-01.jpg)
   * [21-5 城镇/农村居民人均可支配收入](https://tjj.fujian.gov.cn/tongjinianjian/dz2025/zk/html/21-05.jpg)
