@@ -40,7 +40,7 @@
   * 20-13 城镇/农村居民人均可支配收入
 * [四川](https://tjj.sc.gov.cn/scstjj/c112132/pic_list.shtml) [2024](https://tjj.sc.gov.cn/scstjj/tjnjnew/2024/zk/indexch.htm)
   * [12-2 人均GDP](https://tjj.sc.gov.cn/scstjj/tjnjnew/2024/zk/html/12-02.jpg)
-* [湖北](https://tjj.hubei.gov.cn/tjsj/sjkscx/tjnj/qstjnj/) [2024](http://tjj.hubei.gov.cn/tjsj/sjkscx/tjnj/qstjnj/202501/P020250114330164457869.zip) 2024-12-31
+* [湖北](https://tjj.hubei.gov.cn/tjsj/sjkscx/tjnj/qstjnj/) [2025](http://tjj.hubei.gov.cn/tjsj/sjkscx/tjnj/qstjnj/202601/P020260114553839802144.zip) 2025-12-31
   * 2-4 人口
   * 23-1-0 GDP
   * 23-1-2 城镇/农村居民人均可支配收入
