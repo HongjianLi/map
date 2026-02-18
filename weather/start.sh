@@ -8,12 +8,16 @@ echo "$(date +"%F %T.%N") cd weather"
 cd weather
 echo "$(date +"%F %T.%N") node index.js city"
 node index.js city
+if [ $? -eq 0 ]; then
 echo "$(date +"%F %T.%N") cp city/forecast.json city/forecast/$datetime.json"
 cp city/forecast.json city/forecast/$datetime.json # Backup
+fi
 echo "$(date +"%F %T.%N") node index.js county"
 node index.js county
+if [ $? -eq 0 ]; then
 echo "$(date +"%F %T.%N") cp county/forecast.json county/forecast/$datetime.json"
 cp county/forecast.json county/forecast/$datetime.json # Backup
+fi
 echo "$(date +"%F %T.%N") cd .."
 cd ..
 echo "$(date +"%F %T.%N") Script completed"

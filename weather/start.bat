@@ -11,12 +11,16 @@ echo %date% %time% cd weather
 cd weather
 echo %date% %time% node index.js city
 node index.js city
+if %ERRORLEVEL% == 0 (
 echo %date% %time% copy city\forecast.json city\forecast\%datetime%.json
 copy city\forecast.json city\forecast\%datetime%.json
+)
 echo %date% %time% node index.js county
 node index.js county
+if %ERRORLEVEL% == 0 (
 echo %date% %time% copy county\forecast.json county\forecast\%datetime%.json
 copy county\forecast.json county\forecast\%datetime%.json
+)
 echo %date% %time% cd ..
 cd ..
 echo %date% %time% Script completed
