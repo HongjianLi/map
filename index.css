@@ -46,7 +46,7 @@
 	}
 }
 
-/* For resolution 3840 x 2160 and zoom 150%, e.g. jacky-B650I-AORUS-ULTRA */
+/* For resolution 3840 x 2160 and zoom 150% and Chromium, e.g. jacky-B650I-AORUS-ULTRA */
 @media (min-width: 2560px) and (min-height: 1281px) {
 	.mainChart {
 		width: 2552px;
@@ -54,6 +54,17 @@
 	}
 	.side {
 		height: 426px;
+	}
+}
+
+/* For resolution 3840 x 2160 and zoom 150% and Chrome, e.g. jacky-B650I-AORUS-ULTRA */
+@media (min-width: 2560px) and (min-height: 1313px) {
+	.mainChart {
+		width: 2552px;
+		height: 1297px;
+	}
+	.side {
+		height: 437px;
 	}
 }
 
