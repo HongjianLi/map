@@ -12,9 +12,9 @@
   * [2-27 各市人均GDP](http://tjnj.gdstats.gov.cn:8080/tjnj/2025/directory/02/html/02-27-1.htm)
   * [10-12 各市城镇居民人均可支配收入](http://tjnj.gdstats.gov.cn:8080/tjnj/2025/directory/10/html/10-12.htm)
   * [10-19 各市农村居民人均可支配收入](http://tjnj.gdstats.gov.cn:8080/tjnj/2025/directory/10/html/10-19.htm)
-* [广西](http://tjj.gxzf.gov.cn/tjsj/tjnj/) [2024](http://tjj.gxzf.gov.cn//tjsj/tjnj/material/tjnj20200415/2024/indexch.htm) 2025-09-17
-  * [2-6 人口](http://tjj.gxzf.gov.cn//tjsj/tjnj/material/tjnj20200415/2024/zk/html/02-06.jpg)
-  * [23-2 GDP,城镇/农村居民人均可支配收入](http://tjj.gxzf.gov.cn//tjsj/tjnj/material/tjnj20200415/2024/zk/html/23-02.jpg)
+* [广西](http://tjj.gxzf.gov.cn/tjsj/tjnj/) [2025](http://tjj.gxzf.gov.cn//tjsj/tjnj/material/tjnj20200415/2025/indexch.htm) 2026-02-03
+  * [2-6 人口](http://tjj.gxzf.gov.cn//tjsj/tjnj/material/tjnj20200415/2025/zk/html/02-06.jpg)
+  * [23-2 GDP,城镇/农村居民人均可支配收入](http://tjj.gxzf.gov.cn//tjsj/tjnj/material/tjnj20200415/2025/zk/html/23-02.jpg)
 * [海南](https://www.hainan.gov.cn/hainan/tjnj/list3.shtml) [2024](https://www.hainan.gov.cn/hainan/tjnj/202501/4667602b116443f29a33e45fdb862ecf.shtml) 2024-12-18
   * 3-14 人均GDP
   * 6-8 城镇/农村居民可支配收入
