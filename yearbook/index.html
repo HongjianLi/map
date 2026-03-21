@@ -21,7 +21,7 @@ import * as echarts from 'https://cdn.jsdelivr.net/npm/echarts@6.0.0/dist/echart
 const mapName = '华南';
 const geojson = await fetch(`../echarts-china-cities-js/geojson/shape-with-internal-borders/map.geojson`).then(res => res.json());
 echarts.registerMap(mapName, geojson);
-const stats = [].concat(...await Promise.all(['2025香港', '2025澳门', '2025广东', '2025广西', '2024海南', '2024湖南', '2025江西', '2025福建', '2025贵州', '2024云南', '2024重庆', '2024四川', '2025湖北', '2025安徽', '2025浙江', '2025江苏', '2025河南', '2025陕西', '2025甘肃'].map(dir => (fetch(`${dir}/perCapita.tsv`).then(res => res.text()).then(text => text.split('\n').slice(1, -1).map(line => { // Use .slice(1, -1) to skip the header line and the last empty line.
+const stats = [].concat(...await Promise.all(['2025香港', '2025澳门', '2025广东', '2025广西', '2024海南', '2025湖南', '2025江西', '2025福建', '2025贵州', '2024云南', '2024重庆', '2024四川', '2025湖北', '2025安徽', '2025浙江', '2025江苏', '2025河南', '2025陕西', '2025甘肃'].map(dir => (fetch(`${dir}/perCapita.tsv`).then(res => res.text()).then(text => text.split('\n').slice(1, -1).map(line => { // Use .slice(1, -1) to skip the header line and the last empty line.
 	const fields = line.split('	');
 	return {
 		city: fields[0],

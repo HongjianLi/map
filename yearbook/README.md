@@ -18,9 +18,9 @@
 * [海南](https://www.hainan.gov.cn/hainan/tjnj/list3.shtml) [2024](https://www.hainan.gov.cn/hainan/tjnj/202501/4667602b116443f29a33e45fdb862ecf.shtml) 2024-12-18
   * 3-14 人均GDP
   * 6-8 城镇/农村居民可支配收入
-* [湖南](https://hunan.gov.cn/hnszf/zfsj/tjnj/tygl.html) [2024](http://222.240.193.190/2024tjnj/zk/indexch.htm) 2025-04-14
-  * [22-4 人均GDP](http://222.240.193.190/2024tjnj/zk/html/22-04.jpg)
-  * [22-20 城镇/农村居民人均可支配收入](http://222.240.193.190/2024tjnj/zk/html/22-20.jpg)
+* [湖南](https://hunan.gov.cn/hnszf/zfsj/tjnj/tygl.html) [2025](http://222.240.193.190/2025tjnj/zk/indexch.htm) 2026-03-16
+  * [22-2 人均GDP](http://222.240.193.190/2025tjnj/zk/html/22-02.jpg)
+  * [22-18 城镇/农村居民人均可支配收入](http://222.240.193.190/2025tjnj/zk/html/22-18.jpg)
 * [江西](https://tjj.jiangxi.gov.cn/col/col38595/index.html) [2025](https://tjj.jiangxi.gov.cn/resource/nj/2025CD/zk/indexch.htm) 2026-01-30
   * [1-17 GDP](https://tjj.jiangxi.gov.cn/resource/nj/2025CD/zk/html/0117.jpg)
   * [9-24 城镇/农村居民人均可支配收入](https://tjj.jiangxi.gov.cn/resource/nj/2025CD/zk/html/0924.jpg)
