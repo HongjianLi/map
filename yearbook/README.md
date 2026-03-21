@@ -27,10 +27,10 @@
 * [福建](https://tjj.fujian.gov.cn/xxgk/ndsj/) [2025](https://tjj.fujian.gov.cn/tongjinianjian/dz2025/zk/indexch.htm) 2025-12-02
   * [21-1 人均GDP](https://tjj.fujian.gov.cn/tongjinianjian/dz2025/zk/html/21-01.jpg)
   * [21-5 城镇/农村居民人均可支配收入](https://tjj.fujian.gov.cn/tongjinianjian/dz2025/zk/html/21-05.jpg)
-* [贵州](https://www.guizhou.gov.cn/zwgk/zfsj/tjnj/) [2024](https://hgk.guizhou.gov.cn/publish/tj/2024/zk/indexch.htm) 2025-01-03
-  * [25-28 人均GDP](https://hgk.guizhou.gov.cn/publish/tj/2024/zk/html/25-28.jpg)
-  * [25-32 城镇居民人均可支配收入](https://hgk.guizhou.gov.cn/publish/tj/2024/zk/html/25-32.jpg)
-  * [25-33 农村居民人均可支配收入](https://hgk.guizhou.gov.cn/publish/tj/2024/zk/html/25-33.jpg)
+* [贵州](https://www.guizhou.gov.cn/zwgk/zfsj/tjnj/) [2025](https://hgk.guizhou.gov.cn/publish/tj/2025/zk/indexch.htm) 2026-01-15
+  * [25-30 人均GDP](https://hgk.guizhou.gov.cn/publish/tj/2025/zk/html/25-30.jpg)
+  * [25-34 城镇居民人均可支配收入](https://hgk.guizhou.gov.cn/publish/tj/2025/zk/html/25-34.jpg)
+  * [25-35 农村居民人均可支配收入](https://hgk.guizhou.gov.cn/publish/tj/2025/zk/html/25-35.jpg)
 * [云南](https://stats.yn.gov.cn/List22.aspx) [2024](https://stats.yn.gov.cn/Pages_22_6933.aspx) 2025-05-23
   * 18-2 人均GDP
   * 18-14 城镇/农村居民人均可支配收入
