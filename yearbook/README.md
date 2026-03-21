@@ -50,10 +50,10 @@
 * [浙江](https://tjj.zj.gov.cn/col/col1525563/index.html) [2025](https://tjj.zj.gov.cn/col/col1525563/art/2025/art_7953091e51dd43d295acd67166b78d55.html) 2025-12-08
   * 17-25 人均GDP,城镇/农村居民人均可支配收入
   * 17-43 城镇/农村居民人均可支配收入
-* [上海](https://tjj.sh.gov.cn/tjnj/index.html) [2024](https://tjj.sh.gov.cn/tjnj/20250331/9f8ec62cc2234485b0aa411b8d967c37.html)
-  * [2-2 人口](https://tjj.sh.gov.cn/tjnj/nj24.htm?d1=2024tjnj/C0202.htm)
-  * [9-2 城镇居民人均可支配收入](https://tjj.sh.gov.cn/tjnj/nj24.htm?d1=2024tjnj/C0902.htm)
-  * [9-3 农村居民人均可支配收入](https://tjj.sh.gov.cn/tjnj/nj24.htm?d1=2024tjnj/C0903.htm)
+* [上海](https://tjj.sh.gov.cn/tjnj/index.html) [2025](https://tjj.sh.gov.cn/tjnj/20260302/ab5e54f645fd4184b9e9c3aeef8a1c6c.html)
+  * [2-2 人口](https://tjj.sh.gov.cn/tjnj/nj25.htm?d1=2025tjnj/C0202.htm)
+  * [9-2 城镇居民人均可支配收入](https://tjj.sh.gov.cn/tjnj/nj25.htm?d1=2025tjnj/C0902.htm)
+  * [9-3 农村居民人均可支配收入](https://tjj.sh.gov.cn/tjnj/nj25.htm?d1=2025tjnj/C0903.htm)
 * [江苏](https://tj.jiangsu.gov.cn/col/col93166/index.html) [2025](https://tj.jiangsu.gov.cn/2025/index.htm)
   * [20-4 人均GDP](https://tj.jiangsu.gov.cn/2025/nj20/nj2004.htm)
   * [20-16 城镇/农村居民人均可支配收入](https://tj.jiangsu.gov.cn/2025/nj20/nj2016.htm)
