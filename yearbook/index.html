@@ -8,9 +8,31 @@
 	<style>
 .mainChart {
 	display: inline-block;
-	width: 843px;
-	height: 1261px;
 	text-align: center;
+}
+/* For resolution 2560 x 1600 and zoom 125%, e.g. LAPTOP-O511PV03 */
+@media (min-width: 2040px) and (min-height: 1156px) {
+	.mainChart {
+		width: 669px;
+		height: 1136px;
+	}
+}
+/* For resolution 2880 x 1800 and zoom 125%, e.g. LAPTOP-8DRAKJJF */
+@media (min-width: 2296px) and (min-height: 1308px) {
+	.mainChart {
+		width: 843px;
+		height: 1261px;
+	}
+	.side {
+		height: 436px;
+	}
+}
+/* For resolution 3840 x 2160 and zoom 150% and Chrome, e.g. jacky-B650I-AORUS-ULTRA */
+@media (min-width: 2560px) and (min-height: 1313px) {
+	.mainChart {
+		width: 843px;
+		height: 1293px;
+	}
 }
 	</style>
 </head>
