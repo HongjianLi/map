@@ -34,9 +34,9 @@
 * [云南](https://stats.yn.gov.cn/List22.aspx) [2024](https://stats.yn.gov.cn/Pages_22_6933.aspx) 2025-05-23
   * 18-2 人均GDP
   * 18-14 城镇/农村居民人均可支配收入
-* [重庆](https://tjj.cq.gov.cn/zwgk_233/tjnj/) [2024](https://tjj.cq.gov.cn/cslm/tjsjzl/202505/P020250506394667367695.pdf) 2025-05-06
+* [重庆](https://tjj.cq.gov.cn/zwgk_233/tjnj/) [2025](https://tjj.cq.gov.cn/cslm/tjsjzl/202603/P020260330529346889373.pdf) 2026-03-30
   * 20-1 人口
-  * 20-2 人均GDP指数
+  * 20-2 人均GDP
   * 20-13 城镇/农村居民人均可支配收入
 * [四川](https://tjj.sc.gov.cn/scstjj/c112132/pic_list.shtml) [2024](https://tjj.sc.gov.cn/scstjj/tjnjnew/2024/zk/indexch.htm)
   * [12-2 人均GDP](https://tjj.sc.gov.cn/scstjj/tjnjnew/2024/zk/html/12-02.jpg)
