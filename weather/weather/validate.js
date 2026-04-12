@@ -12,9 +12,11 @@ for (const file of files) {
 	const fileHH = fileParts[3];
 	const forecastArr = await fs.readFile(`${dir}/${file}`).then(JSON.parse);
 	console.assert(forecastArr.length >= forecastArrLength[cityDir], file, forecastArr.length);
-	const { forecast } = forecastArr[0]; // Validate the first city.
-	console.assert(forecast.length === 7);
-	const day0 = forecast[0]; // Validate the first day.
-	console.assert(day0.date === fileDate, file, day0.date);
-	console.assert(fileHH < 18 ? day0.day : !day0.day, file,  'day');
+	[0, forecastArr.length - 1].forEach(index => { // Validate the first city and the last city.
+		const { forecast } = forecastArr[index];
+		console.assert(forecast.length === 7);
+		const day0 = forecast[0]; // Validate the first day.
+		console.assert(day0.date === fileDate, file, day0.date);
+		console.assert(fileHH < 18 ? day0.day : !day0.day, file,  'day');
+	});
 }
