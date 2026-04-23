@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import fs from 'fs/promises';
-const forecastArrLength = { city: 365, county: 1592 };
+const forecastArrLength = { city: 356, county: 1584 };
 const cityDir = 'city';
 const dir = `${cityDir}/forecast`;
 console.log(`Reading directory ${dir}`);
