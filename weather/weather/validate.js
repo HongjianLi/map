@@ -1,17 +1,25 @@
 #!/usr/bin/env node
 import fs from 'fs/promises';
-const forecastArrLength = { city: 356, county: 1584 };
+const conditions = {
+	city: {
+		forecastArrLength: { min: 356 },
+	},
+	county: {
+		forecastArrLength: { min: 1584 },
+	},
+};
 const cityDir = 'city';
 const dir = `${cityDir}/forecast`;
 console.log(`Reading directory ${dir}`);
 const files = await fs.readdir(dir);
 console.log(`Found ${files.length} files`);
+const condition = conditions[cityDir];
 for (const file of files) {
 	const fileParts = file.split('-');
 	const fileDate = fileParts.slice(0, 3).join('-');
 	const fileHH = fileParts[3];
 	const forecastArr = await fs.readFile(`${dir}/${file}`).then(JSON.parse);
-	console.assert(forecastArr.length >= forecastArrLength[cityDir], file, forecastArr.length);
+	console.assert(forecastArr.length >= condition.forecastArrLength.min, file, forecastArr.length);
 	const { forecast } = forecastArr[forecastArr.length - 1]; // Validate the last city.
 	console.assert(forecast.length === 7);
 	const day0 = forecast[0]; // Validate the first day.
