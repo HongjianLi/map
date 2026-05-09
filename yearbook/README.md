@@ -31,9 +31,9 @@
   * [25-30 人均GDP](https://hgk.guizhou.gov.cn/publish/tj/2025/zk/html/25-30.jpg)
   * [25-34 城镇居民人均可支配收入](https://hgk.guizhou.gov.cn/publish/tj/2025/zk/html/25-34.jpg)
   * [25-35 农村居民人均可支配收入](https://hgk.guizhou.gov.cn/publish/tj/2025/zk/html/25-35.jpg)
-* [云南](https://stats.yn.gov.cn/List22.aspx) [2024](https://stats.yn.gov.cn/Pages_22_6933.aspx) 2025-05-23
+* [云南](https://stats.yn.gov.cn/List22.aspx) [2025](https://stats.yn.gov.cn/Pages_22_7674.aspx) 2026-05-07
   * 18-2 人均GDP
-  * 18-14 城镇/农村居民人均可支配收入
+  * 18-12 城镇/农村居民人均可支配收入
 * [重庆](https://tjj.cq.gov.cn/zwgk_233/tjnj/) [2025](https://tjj.cq.gov.cn/cslm/tjsjzl/202603/P020260330529346889373.pdf) 2026-03-30
   * 20-1 人口
   * 20-2 人均GDP
