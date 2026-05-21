@@ -39,7 +39,7 @@
 <body>
 	<div id="chartContainer"></div>
 	<script type="module">
-import * as echarts from 'https://cdn.jsdelivr.net/npm/echarts@6.0.0/dist/echarts.esm.min.js'
+import * as echarts from 'https://cdn.jsdelivr.net/npm/echarts@6.1.0/dist/echarts.esm.min.js'
 const mapName = '华南';
 const geojson = await fetch(`../echarts-china-cities-js/geojson/shape-with-internal-borders/map.geojson`).then(res => res.json());
 echarts.registerMap(mapName, geojson);
