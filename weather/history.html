@@ -151,7 +151,9 @@ const today = new Date();
 for (let date = new Date('2026-03-01'); date < today; date.setDate(date.getDate() + 1)) {
 	const dateStr = date.toLocaleDateString('en-CA');
 	document.title = dateStr;
-	forecastArr = await fetch(`weather/${cityDir}/forecast/${dateStr}-12-02.json`).then(res => res.json()); // Prefer weather to nmc because weather provides the sky key 晴天预报, which indicates whether 灰霾 occurs.
+	const response = await fetch(`weather/${cityDir}/forecast/${dateStr}-12-02.json`);
+	if (!response.ok) continue;
+	const forecastArr = await response.json(); // Prefer weather to nmc because weather provides the sky key 晴天预报, which indicates whether 灰霾 occurs.
 	forecastArr.forEach(fc => fc.forecast.forEach(f => f.uncomfortable = util.isUncomfortable(f))); // Re-evaluate the conditions.
 	mainChart.setOption({
 		series: {
