@@ -28,11 +28,11 @@ for (let i = 0; i < codeArr.length; ++i) {
 			continue;
 		}
 		if (response.ok()) {
-			try {
-				await page.waitForSelector('div.crumbs.fl');
-			} catch (error) { // In case of error, e.g. TimeoutError, retry.
-				console.error(`${city}: page.waitForSelector() error ${error}`);
-				continue;
+			for (let i = 0; i < 5; ++i) { // Try for several times, because timeouts occur occasionally.
+				const handle = await page.waitForSelector('div.crumbs.fl').catch(error => {
+					if (i === 4) console.error(`${city}: page.waitForSelector('div.crumbs.fl'): ${error}`);
+				});
+				if (handle) break;
 			}
 			const levelArr = (await page.$eval('div.crumbs.fl', el => el.innerText)).replaceAll('\n', '').split('>');
 			console.assert([3, 4].includes(levelArr.length), '[3, 4].includes(levelArr.length)');
