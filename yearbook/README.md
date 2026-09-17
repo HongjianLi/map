@@ -15,7 +15,7 @@
 * [广西](http://tjj.gxzf.gov.cn/tjsj/tjnj/) [2025](http://tjj.gxzf.gov.cn//tjsj/tjnj/material/tjnj20200415/2025/indexch.htm) 2026-02-03
   * [2-6 人口](http://tjj.gxzf.gov.cn//tjsj/tjnj/material/tjnj20200415/2025/zk/html/02-06.jpg)
   * [23-2 GDP,城镇/农村居民人均可支配收入](http://tjj.gxzf.gov.cn//tjsj/tjnj/material/tjnj20200415/2025/zk/html/23-02.jpg)
-* [海南](https://www.hainan.gov.cn/hainan/tjnj/list3.shtml) [2024](https://www.hainan.gov.cn/hainan/tjnj/202501/4667602b116443f29a33e45fdb862ecf.shtml) 2024-12-18
+* [海南](https://www.hainan.gov.cn/hainan/tjnj/list3.shtml) [2025](https://www.hainan.gov.cn/hainan/tjnj/202609/c73b5a05802546e2b465bd9b9bba0205.shtml) 2026-09-09
   * 3-14 人均GDP
   * 6-8 城镇/农村居民可支配收入
 * [湖南](https://hunan.gov.cn/hnszf/zfsj/tjnj/tygl.html) [2025](http://222.240.193.190/2025tjnj/zk/indexch.htm) 2026-03-16
