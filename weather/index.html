@@ -150,6 +150,10 @@ echarts.init(document.getElementById('mainChart'), 'dark').setOption({
 			show: cityDir === 'city',
 			color: 'black',
 //			fontSize: 7, // Default is 12
+//			formatter: (params) => {
+//				const { name } = params;
+//				return cityDir === 'city' || ['广州越秀', '南宁青秀', '长沙岳麓', '南昌红谷滩', '福州鼓楼', '海口秀英', '贵阳观山湖', '昆明呈贡', '重庆渝中', '成都武侯', '武汉江岸', '合肥蜀山', '杭州上城', '南京玄武', '郑州中原', '西安未央'].includes(name) ? name : '';
+//			},
 		},
 		data: forecastArr.map(fc => ({
 			name: `${fc.parent ?? ''}${fc.city}`,
